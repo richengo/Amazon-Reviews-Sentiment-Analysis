@@ -1,7 +1,5 @@
 # Amazon Reviews Sentiment Analysis
 
-### Riche Ngo
-
 ## Motivation
 
 The Internet has revolutionalized the way we buy products. In the online marketplace, people cannot feel and touch products the same way we do in physical 
